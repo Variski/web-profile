@@ -115,10 +115,11 @@ export default function ContactSection() {
           </div>
           {/* MENU */}
           <div className="space-y-2 text-xl">
-            <p className="border-b border-white/30 w-fit">Home</p>
-            <p className="border-b border-white/30 w-fit">About</p>
-            <p className="border-b border-white/30 w-fit">Service</p>
-            <p className="border-b border-white/30 w-fit">Portfolio</p>
+            <Link href="/" className="border-b border-white/30 w-fit">Home <br /></Link>
+            <Link href="#about" className="border-b border-white/30 w-fit">About <br /></Link>
+            <Link href="#service" className="border-b border-white/30 w-fit">Service <br/></Link>
+            <Link href="#project" className="border-b border-white/30 w-fit">Portfolio<br/></Link>
+            <Link href="https://drive.google.com/file/d/1kOM761NjYkq-ohzlCSTIH41FwnGhM8HT/view?usp=drive_link" className="border-b border-white/30 w-fit">Resume<br/></Link>
           </div>
 
           {/* CONTACT */}

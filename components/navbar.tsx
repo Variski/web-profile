@@ -18,7 +18,7 @@
     { name: "Service", href: "#service" },
     { name: "Project", href: "#project" },
     { name: "Contact", href: "#contact" },
-    { name: "Resume", href: "/resume" },
+    { name: "Resume", href: "https://drive.google.com/file/d/1kOM761NjYkq-ohzlCSTIH41FwnGhM8HT/view?usp=drive_link" },
   ];
 
   export default function AppNavbar() {
@@ -65,7 +65,7 @@
                           outline-none
                                   ${
                                       item.name === "Resume"
-                                      ? "bg-purple-800 text-black hover:bg-purple-950"
+                                      ? "bg-purple-800 rounded-md text-black hover:bg-purple-950"
                                       : pathname === item.href
                                       ? "text-primary font-extrabold"
                                       : "text-white/95 hover:text-primary"

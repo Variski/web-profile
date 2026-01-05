@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { Button } from "@heroui/react";
-import fotoDeva from "@/public/miaw.png";
+import fotoDeva from "@/public/deva35.png";
 import icon from "@/public/icon1.svg";
 
 export default function HeroSection() {
@@ -33,8 +33,8 @@ export default function HeroSection() {
           <Image
             src={fotoDeva}
             alt="Deva"
-            width={500}
-            height={650}
+            width={600}
+            height={750}
             className="scale-75 sm:scale-85 md:scale-110"
             priority
           />
