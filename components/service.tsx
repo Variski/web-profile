@@ -12,7 +12,7 @@ const services = [
   {
     title: "Mobile Developer",
     description:
-      "I help businesses and startups turn ideas into powerful, user-friendly software. My goal is to build digital products that not only work smoothly but also make a real difference for the people who use them.",
+    "I help businesses and startups bring their ideas to life through reliable, scalable, and user-friendly mobile applications focused on real user needs.",
     icon: Smartphone,
   },
   {
@@ -53,16 +53,13 @@ export default function ServiceSection() {
              md:text-left
           "
         >
-          HERE ARE THE SERVICES WE ARE <br /> PROVIDING TO YOU
+          HERE ARE THE SERVICES <br /> I PROVIDE TO YOU
         </h2>
 
         {/* DESCRIPTION */}
         <p className="text-[#757575] text-base md:text-xl max-w-5xl">
-          We provide end-to-end digital solutions tailored to your goals — from
-          sleek UI/UX design and powerful web development to reliable software
-          solutions. With our expertise, we ensure every project is not only
-          functional and efficient but also delivers an exceptional and
-          memorable user experience.
+          I help turn ideas into impactful digital products through thoughtful UI/UX design, modern web development,
+          and reliable mobile solutions.
         </p>
 
         {/* SERVICES GRID / CAROUSEL */}

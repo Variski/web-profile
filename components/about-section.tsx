@@ -37,11 +37,8 @@ export default function AboutSection() {
             </h2>
 
             <p className="text-base leading-relaxed text-white/80">
-              I am Deva Helal Eka Variski, an undergraduate Informatics student at
-              Universitas Pembangunan Nasional &quot;Veteran&quot; Jawa Timur.
-              Passionate about crafting seamless digital experiences, I
-              specialize in UI/UX Design and Web Development, blending aesthetic
-              intuition with technical precision.
+              I am Deva Helal Eka Variski, an undergraduate Informatics student at Universitas Pembangunan Nasional “Veteran” Jawa Timur.
+              I am passionate about crafting seamless digital experiences, with a focus on UI/UX Design, Web Development, and Mobile Development—blending aesthetic sensitivity with technical precision.
             </p>
           </div>
 
@@ -52,10 +49,8 @@ export default function AboutSection() {
             </h2>
 
             <p className="text-base leading-relaxed text-white/80">
-              We turn ideas into intuitive, visually stunning experiences that
-              perfectly balance aesthetics, usability, and performance. By
-              bridging the gap between design and development, we merge clean
-              code with pixel-perfect UI/UX to bring your digital vision to life.
+            I transform ideas into intuitive and visually engaging digital experiences through thoughtful UI/UX design, modern web development, and reliable mobile solutions. By bridging the gap between design and development, I merge clean,
+            efficient code with pixel-perfect UI/UX to create products that are not only visually appealing, but also functional, usable, and high-performing.
             </p>
           </div>
 
